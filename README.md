@@ -14,3 +14,5 @@ Interactive User Interface: The application includes interactive elements to enh
 Technologies Used:
 ReactJS
 Tailwind CSS
+
+Demo Images of the project are available in the demo-images folder.
